@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E48237-8F37-4797-81A9-2EE6079A64F6}|WebAPI\\WebAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\spike\\webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E48237-8F37-4797-81A9-2EE6079A64F6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEB450D-6C78-4FEC-9FE9-266B1E2F55F0}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\spike\\dataaccess\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEB450D-6C78-4FEC-9FE9-266B1E2F55F0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E48237-8F37-4797-81A9-2EE6079A64F6}|WebAPI\\WebAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\spike\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E48237-8F37-4797-81A9-2EE6079A64F6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEB450D-6C78-4FEC-9FE9-266B1E2F55F0}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\spike\\dataaccess\\repo\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEB450D-6C78-4FEC-9FE9-266B1E2F55F0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repo\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E48237-8F37-4797-81A9-2EE6079A64F6}|WebAPI\\WebAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\spike\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E48237-8F37-4797-81A9-2EE6079A64F6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEB450D-6C78-4FEC-9FE9-266B1E2F55F0}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\spike\\dataaccess\\repo\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEB450D-6C78-4FEC-9FE9-266B1E2F55F0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repo\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEB450D-6C78-4FEC-9FE9-266B1E2F55F0}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\spike\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEB450D-6C78-4FEC-9FE9-266B1E2F55F0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEB450D-6C78-4FEC-9FE9-266B1E2F55F0}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\spike\\dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEB450D-6C78-4FEC-9FE9-266B1E2F55F0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83A3D3F-9E21-4BB2-B79C-9A54BCC2DF5E}|Helpers\\Helpers.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\spike\\helpers\\pwdhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83A3D3F-9E21-4BB2-B79C-9A54BCC2DF5E}|Helpers\\Helpers.csproj|solutionrelative:helpers\\pwdhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E48237-8F37-4797-81A9-2EE6079A64F6}|WebAPI\\WebAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\spike\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01E48237-8F37-4797-81A9-2EE6079A64F6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:41:17.615Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PwdHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\Helpers\\PwdHasher.cs",
+              "RelativeDocumentMoniker": "Helpers\\PwdHasher.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\Helpers\\PwdHasher.cs",
+              "RelativeToolTip": "Helpers\\PwdHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:31:48.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\DataAccess\\Repo\\Repo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repo\\Repo.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\DataAccess\\Repo\\Repo.cs",
+              "RelativeToolTip": "DataAccess\\Repo\\Repo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA8wCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:19:35.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\DataAccess\\Repo\\IRepo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repo\\IRepo.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\DataAccess\\Repo\\IRepo.cs",
+              "RelativeToolTip": "DataAccess\\Repo\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:19:30.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\WebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\WebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:17:24.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T21:12:29.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:07:37.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\DataAccess\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\DataAccess\\Entities\\Customer.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:06:38.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\DataAccess\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\DataAccess\\Entities\\User.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:06:21.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\WebAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\Spike\\WebAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:58:46.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
